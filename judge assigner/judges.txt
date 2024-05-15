@@ -1,0 +1,19 @@
+Gus Grey: Chemistry
+Mary May: Chemistry, Earth/Space Science
+Jill Clemson: Behavioral/Social Science, Life Science, Environmental Science
+Cathy Lively: Life Science
+John Smith: Chemistry, Mathematics/Physics
+Michael Cleaver: Environmental Science
+Jim Green: Life Science
+Bill Jones: Chemistry, Behavioral/Social Science, Earth/Space Science, Mathematics/Physics
+Susan Garcia: Life Science
+Mark Johnson: Mathematics/Physics
+Carla Phillips: Earth/Space Science
+Tony Brown: Life Science
+Joe Martin: Life Science, Environmental Science
+Chris Suarez: Environmental Science, Behavioral/Social Science
+John Jones: Chemistry
+Karen Simic: Mathematics/Physics, Environmental Science
+Maria Gonzales: Life Science, Chemistry
+Mary Jones: Chemistry
+Cory Garcia: Earth/Space Science, Mathematics/Physics, Chemistry
